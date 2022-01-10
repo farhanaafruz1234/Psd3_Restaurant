@@ -1,0 +1,268 @@
+/*Mini device -- Galaxy fold and mini phone */
+@media (min-width: 279px) and (max-width: 319px){
+  /*Code Start*/
+  .navbar-nav {
+    margin: 25px 0px 0px;
+  }
+  .header-section .navbar-light .navbar-nav .nav-link:hover, .header-section .navbar-light .navbar-nav .nav-link:focus{
+  font-size: 250%;
+  
+
+}
+  .banner {
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .banner .banner-inner h5{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 700;
+  }
+  .banner .banner-inner h1{
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 600;
+  }
+  .banner .banner-inner p {
+    font-size: 9px;
+    line-height: 19px;
+  }
+  .button-group{
+    padding: 10px 0px 0px;
+  }
+  .button-group .btn-primary{
+    padding: 7px 15px;
+    font-size: 10px;
+    margin: 0px 8px 0px 0px;
+  }
+  .button-group .btn-info{
+    padding: 7px 15px;
+    font-size: 10px;
+  }
+
+  .title h6{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 700;
+  }
+  .title h2{
+    font-size: 22px;
+    line-height: 32px;
+    font-size: 600;
+  }
+
+  .about-long .about-long-inner p{
+    font-size: 9px;
+    line-height: 19px;
+  }
+  .about-long .about-long-inner ul li {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+  }
+
+  .about-sort p {
+    font-size: 9px;
+    line-height: 19px;
+  }
+
+  .testimonial .owl-carousel .item h4{
+    font-size: 16px;
+    font-weight: 26px;
+  }
+  .testimonial .owl-carousel .item .clients-img{
+    width: 62px;
+    height: 62px;
+  }
+  .testimonial .owl-carousel .item p{
+    font-size: 12px;
+    margin: 4px 0px 13px 20px;
+  }
+  .testimonial .owl-carousel .item h6{
+    font-size: 12px;
+    margin: 0px 0px 0px 20px;
+  }
+
+  .download h2{
+    font-size: 16px;
+    margin: 10px 0px 10px 0px;
+  }
+
+  .price-box{
+    margin: 0px 0px 20px;
+  }
+
+  .social-icon ul li a {
+    font-size: 12px;
+    margin: 0px 8px;
+}
+
+.contact .main-form .form-control {
+    font-size: 8px;
+    font-weight: 700;
+    padding: 10px;
+}
+.contact .main-form .btn-primary {
+    padding: 12px 14px;
+    font-size: 10px;
+}
+
+
+  /*Code End*/
+}
+/*Device -- Most of the mobile phones iphone, MI, Realme, Galaxy*/
+@media (min-width: 320px) and (max-width: 480px){
+  /*Code Start*/
+   .navbar-nav {
+    margin: 25px 0px 0px;
+   }
+.header-section .navbar-light .navbar-nav .nav-link:hover, .header-section .navbar-light .navbar-nav .nav-link:focus{
+  color: #e8631c;
+}
+
+  .banner {
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .banner .banner-inner h5{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 700;
+  }
+  .banner .banner-inner h1{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 600;
+  }
+  .banner .banner-inner p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .button-group{
+    padding: 15px 0px 0px;
+  }
+  .button-group .btn-primary{
+    padding: 9px 18px;
+    font-size: 12px;
+    margin: 0px 8px 0px 0px;
+  }
+  .button-group .btn-info{
+    padding: 9px 18px;
+    font-size: 12px;
+  }
+
+  .title h6{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 700;
+  }
+  .title h2{
+    font-size: 22px;
+    line-height: 32px;
+    font-size: 600;
+  }
+
+  .about-long .about-long-inner p{
+    font-size: 9px;
+    line-height: 19px;
+  }
+  .about-long .about-long-inner ul li {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+  }
+
+  .about-sort p {
+    font-size: 9px;
+    line-height: 19px;
+  }
+
+  .testimonial .owl-carousel .item h4{
+    font-size: 16px;
+    font-weight: 26px;
+  }
+  .testimonial .owl-carousel .item .clients-img{
+    width: 62px;
+    height: 62px;
+  }
+  .testimonial .owl-carousel .item p{
+    font-size: 12px;
+    margin: 4px 0px 13px 20px;
+  }
+  .testimonial .owl-carousel .item h6{
+    font-size: 12px;
+    margin: 0px 0px 0px 20px;
+  }
+
+  .download h2{
+    font-size: 16px;
+    margin: 10px 0px 10px 0px;
+  }
+
+  .price-box{
+    margin: 0px 0px 20px;
+  }
+
+  .social-icon ul li a {
+    font-size: 12px;
+    margin: 0px 8px;
+}
+
+.contact .main-form .form-control {
+    font-size: 8px;
+    font-weight: 700;
+    padding: 10px;
+}
+.contact .main-form .btn-primary {
+    padding: 12px 14px;
+    font-size: 10px;
+}
+  /*Code End*/
+}
+/*Device -- Low regulation tablet, phone*/
+@media (min-width: 481px) and (max-width: 767px){
+  /*Code Start*/
+   .navbar-nav {
+    margin: 25px 0px 0px;
+   }
+.header-section .navbar-light .navbar-nav .nav-link:hover, .header-section .navbar-light .navbar-nav .nav-link:focus{
+  color: #e8631c;
+}
+
+  .banner {
+    padding: 20px 0px;
+  }
+  .banner .banner-inner h5{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 700;
+  }
+  .banner .banner-inner h1{
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 600;
+  }
+  .banner .banner-inner p {
+    font-size: 9px;
+    line-height: 19px;
+  }
+
+  .download .button-group {
+    margin: 12px 0px 0px;
+    text-align: left;
+}
+  /*Code End*/
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+  /*Code Start*/
+   .navbar-nav {
+    margin: 25px 0px 0px;
+   }
+.header-section .navbar-light .navbar-nav .nav-link:hover, .header-section .navbar-light .navbar-nav .nav-link:focus{
+  color: #e8631c;
+}
+
+
+  /*Code End*/
+}
